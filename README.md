@@ -1,8 +1,8 @@
-# LLM RAG Knowledge Guardrails
+# LLM RAG Guardrails for an AI Course Assistant
 
-[![CI](https://github.com/zhittsova/llm-rag-knowledge-guardrails/actions/workflows/ci.yml/badge.svg)](https://github.com/zhittsova/llm-rag-knowledge-guardrails/actions/workflows/ci.yml)
+[![CI](https://github.com/zhittsova/llm-rag-guardrails-ai-course-assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/zhittsova/llm-rag-guardrails-ai-course-assistant/actions/workflows/ci.yml)
 
-A knowledge assistant needs to know when to answer and when to stop. This Python
+An AI course assistant needs to know when to answer and when to stop. This Python
 project makes those decisions inspectable: **answer, block, redirect, or abstain**,
 with configurable policy, permitted document scope, evidence checks, and evaluation.
 

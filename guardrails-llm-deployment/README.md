@@ -1,4 +1,4 @@
-# LLM RAG Knowledge Guardrails
+# LLM RAG Guardrails for an AI Course Assistant
 
 For the public project overview, see the [repository README](../README.md).
 Start with the [local interface walkthrough](docs/interface_walkthrough.md), or
